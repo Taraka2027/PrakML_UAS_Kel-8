@@ -7,8 +7,9 @@ Ini adalah repository untuk proyek Ujian Akhir Semester (UAS) Praktikum Pembelaj
 * 187231056 | Bunga Calista Nabila Syaman
 * 187231104 | Raesutha Arya Cakrashena
 * 187231107 | Thalita Putri Kaylaluna	
-Struktur Proyek
-Repository ini berisi:
+
+##Struktur Proyek
+###Repository ini berisi:
 
 PrakML_UAS.py: Script utama Python yang berisi semua logika, mulai dari preprocessing hingga model rekomendasi interaktif.
 
